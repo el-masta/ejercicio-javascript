@@ -20,7 +20,7 @@ El proyecto se realizó en un simple archivo PHP, con Bootstrap para dar estilo 
 
 Aunque las funciones no se aplicaron tal cual, dada la bondad de Vuejs, se definen por separado como:
 
-'''
+```
 function myFactorial(num) {
    // Calcula el factorial de el número
    var resFactorial = num;
@@ -60,9 +60,7 @@ function myWord(phrase) {
    }
    return strWord
 }
-'''
-
-
+```
 
 
 Elaborado el 23 de marzo del 2020
