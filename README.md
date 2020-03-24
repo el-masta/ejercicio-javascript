@@ -21,7 +21,7 @@ El proyecto se realizó en un simple archivo PHP, con Bootstrap para dar estilo 
 Aunque las funciones no se aplicaron tal cual, dada la bondad de Vuejs, las podemos definir por separado como:
 
 
-#### Factorial
+#### Factorial:
 ```
 function myFactorial(num) {
    // Calcula el factorial de el número
@@ -37,7 +37,7 @@ function myFactorial(num) {
 }
 ```
 
-#### Palabra más larga
+#### Palabra más larga:
 ```
 function myWord(phrase) {
    // Encuentra la palabra de mayor longitud en la frase
